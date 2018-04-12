@@ -4,7 +4,7 @@ The basic Fizz Buzz problem is a fairly simple one. As such it is a great candid
 
 ## The extended problem
 
-For those more familiar with coding and especially those more familiar with coding _and_ TDD the basic Fizz Buzz problem will likely be trivially simple to implement. In that case feel free to introduce the extended version of the problem. If the participants are already familiar with the problem it may be appropriate to share the entire table from the main [README.md][../README.md] file with them at once. Otherwise it may be more appropriate to share each new primary case with them one at a time. Make sure the participants understand that each new case introduced needs to also be incorporated with all previous cases already implemented.
+For those more familiar with coding and especially those more familiar with coding _and_ TDD the basic Fizz Buzz problem will likely be trivially simple to implement. In that case feel free to introduce the extended version of the problem. If the participants are already familiar with the problem it may be appropriate to share the entire table from the main [README.md](../README.md) file with them at once. Otherwise it may be more appropriate to share each new primary case with them one at a time. Make sure the participants understand that each new case introduced needs to also be incorporated with all previous cases already implemented.
 
 ## Challenges while presenting
 
