@@ -1,6 +1,6 @@
 # Fizz Buzz Plus Plus
 
-Fizz Buzz is a game about division. For a complete explanation see the [Wikipedia entry](https://en.wikipedia.org/wiki/Fizz_buzz). But the basic gist is that if a number is divisible by 3 it should be replaced by "fizz". A number is divisible by 5 it should be replaced by "buzz". A number divisible by 3 and 5 should be replaced by "fizzbuzz". All other numbers should be left as is.
+Fizz Buzz is a game about division. For a complete explanation see the [Wikipedia entry](https://en.wikipedia.org/wiki/Fizz_buzz). But the basic gist is that if a number is divisible by 3 it should be replaced by "fizz". A number divisible by 5 it should be replaced by "buzz". A number divisible by 3 and 5 should be replaced by "fizzbuzz". All other numbers should be left as is.
 
 The goal of this kata is to write a piece of code that will take any number and return a string containing the "Fizz Buzz"-ified version of that number. In some cases that returned value will just be a string version of the number. In other cases the returned number will be "fizz", "buzz" or "fizzbuzz". 
 
